@@ -1,0 +1,21 @@
+# SSH Keys
+.pem
+
+# Environment Variables
+.env
+
+# Terraform State Files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform Variable Files
+*.tfvars
+
+# Terraform Folder
+.terraform/
+
+# macOS Files
+.DS_Store
+
+# Logs
+*.log
